@@ -4,3 +4,4 @@ Hello, I've installed Vim on this Ubuntu machine.
 GPL 4.0 LICENSE. See License.
 Creating a new line on branch dev.
 Creating a new branch is quick & simple.
+in new dev we celebrate!
