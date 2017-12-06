@@ -6,6 +6,3 @@ def hello(name):
 def hel(ha):
     pass
 
-def test(ha):
-    return ha
-
